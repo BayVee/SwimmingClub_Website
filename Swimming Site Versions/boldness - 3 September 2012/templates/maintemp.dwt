@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="head" -->
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+  <div id="dashboard">
+    	<div id="loginame">
+		<!-- TemplateBeginEditable name="LoginName" -->LoginName Goes Here<!-- TemplateEndEditable -->
+      </div>
+  </div>
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="logo">
+				<h1><a href="../index.html">Swimming Club</a></h1>
+				
+			</div>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+    <!-- note: move the "current_page_item according to corresponding menu item-->
+    	<!-- TemplateBeginEditable name="CurrentMenu" -->
+        
+        <ul>
+			<li class="current_page_item"><a href="#">Home</a></li>
+			<li><a href="#">About Us</a></li>
+			<li><a href="#">Latest News</a></li>
+			<li><a href="#">Photos</a></li>
+			<li><a href="#">Membership</a></li>
+			<li><a href="#">Coaches</a></li>
+			<li><a href="#">Gear</a></li>
+			<li><a href="#">Contact Us</a></li>
+		</ul>
+        <!-- TemplateEndEditable -->
+		
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="content">
+		<!-- TemplateBeginEditable name="MainPageContent" -->
+        MainPageContent - Edit me here!
+		<!--TemplateEndEditable -->
+			
+			<div style="clear: both;">&nbsp;</div>
+	  </div>
+		<!-- end #content -->
+		<div id="sidebar-bg">
+			<div id="sidebar">
+			<!-- TemplateBeginEditable name="SidebarContent" -->SidebarContent - Edit Content Here<!-- TemplateEndEditable -->
+				
+			</div>
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer">
+	<p>2012. swimmingclub.com. Team23 productions</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
