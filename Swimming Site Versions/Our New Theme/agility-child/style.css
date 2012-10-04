@@ -1,0 +1,71 @@
+/*
+Theme Name:     Agility Child Theme
+Theme URI:      http://agility.sevenspark.com
+Description:    Child theme for Agility
+Author:         Chris Mavricos, SevenSpark
+Author URI:     http://sevenspark.com
+Template:       agility
+Version:        1.1.3
+*/
+
+/* This stylesheet is unnecessary to include, unless you've edited it */
+/* @import url("../agility/style.css"); */
+
+
+/* Hooray!  You're not editing the parent theme!  Add your custom styles below here */
+
+/* =General Settings
+----------------------------------------------- */
+
+/* Background of site*/
+.bkg-fiber .wrap {
+	background-image:url(images/gradient_squares.png);
+	background-repeat:repeat;
+}
+
+#site-title {
+    margin-bottom: 25px;
+	width:100%;
+	clear:both;
+}
+
+#site-title a {
+    color: #26ade4;
+    font-weight: normal;
+    text-decoration: none;
+	text-shadow: 0px 0px 10px #25a7bf;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* =Header
+----------------------------------------------- */
+
+#masthead {
+    font-size: 45px;
+	width:100%;
+    margin-top: 35px;
+	margin-bottom:15px;
+	margin-left:240px;
+}
+
+.skin-red #sub-title, .skin-red #main-container p a:not(.button), .skin-red nav#main-nav > ul > li.current-menu-item > a, .skin-red a.excerpt-link, .skin-red .entry-meta .cat-links a, .skin-red #tweet a, .skin-red #colophon #footer-base a {
+    color: #25a7bf;
+}
+
+nav#main-nav ul li a:hover {
+    color: #blue;
+    font-size: 0.9em;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+/* =Content
+----------------------------------------------- */
+.tagline {
+    clear: both;
+    color: #4dbce9;
+    font-family: Tahoma;
+    font-size: 20px;
+	font-style:normal;
+}

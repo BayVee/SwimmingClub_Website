@@ -1,0 +1,13 @@
+nav#main-nav > ul > li{
+	float:left;
+}
+nav#main-nav > ul li ul{
+	background-color:#ddd;
+}
+.drop-bar a.social-media{
+	float:left;
+}
+.drop-panel{
+	position:static;
+}
+

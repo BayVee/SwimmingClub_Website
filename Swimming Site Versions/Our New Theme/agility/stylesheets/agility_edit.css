@@ -1,0 +1,137 @@
+#shortcodeMasterDrop{
+	background:#e9e9e9;
+	display:block;
+	z-index:40;
+	border:1px solid #e0e0e0;
+	box-shadow:-4px 4px 0px #f9f9f9;
+}
+#shortcodeMasterDrop ul,
+#shortcodeMasterDrop li{
+	margin:0;
+	padding:0;
+	float:left;
+	width:150px;
+}
+#shortcodeMasterDrop ul{
+	width:300px;
+	float:left;
+}
+#shortcodeMasterDrop ul.column-shortcodes{
+	padding-left:300px;
+}
+
+#shortcodeMasterDrop a,
+#shortcodeMasterDrop span.shortcode-breaker{
+	padding:7px 14px;
+	text-decoration:none;
+	font-size:13px;
+	color:#777;
+	/*border-bottom:1px solid #d4d4d4;
+	border-top:1px solid #e9e9e9;
+	border-left:1px solid #d4d4d4;
+	border-right:1px solid #e9e9e9;*/
+	display:block;
+	font-weight:bold;
+}
+#shortcodeMasterDrop span.shortcode-breaker{
+	border-bottom:1px dotted #f9f9f9;
+	color:#EF452C;
+}
+#shortcodeMasterDrop a:hover{
+	background:#333;
+	color:#eee;
+}
+
+
+#shortcodeMasterPanel{
+	width:100%;
+	height:100%;
+	background:#222;
+	background:rgba( 0,0,0,.7 );
+
+	position:fixed;
+	top:0;
+	left:0;
+
+	z-index:50;
+}
+
+#shortcodeMasterPanel_inner{
+	background:#fefefe;
+	padding:20px 30px;
+	margin:50px auto 0 auto;
+	width:600px;
+	max-width:80%;
+	min-height:200px;
+	max-height:80%;
+}
+
+#shortcodeMasterPanel_inner h3{
+	margin:10px 0 30px 0;
+	font-size:20px;
+}
+
+.shortcodeMaster_form_setting{
+	margin:10px 0;
+}
+.shortcodeMaster_form_setting label{
+	width:180px;
+	display:inline-block;
+	vertical-align:top;
+	font-weight:bold;
+	font-size:13px;
+	color:#555;
+}
+.shortcodeMaster_form_setting input[type="text"],
+.shortcodeMaster_form_setting textarea{
+	width: 400px;
+	padding:10px;
+	border-radius:0;
+	font-size:13px;
+}
+
+#shortcodeMasterPanel_inner .shortcode-preview{
+	padding:10px;
+	font-size:14px;
+	background:#444;
+	color:#eee;
+	margin:1em 0;
+	font-weight:bold;
+}
+
+
+#qt_content_shortcodeMaster{
+	padding-left:20px;
+	position:relative;
+	background-image:url(../images/icons/bolt.png);
+	background-position:2px 3px;
+	background-repeat:no-repeat;
+}
+
+
+
+.tipsy { font-size: 10px; position: absolute; padding: 5px; z-index: 100000; }
+  .tipsy-inner { background-color: #000; color: #FFF; max-width: 200px; padding: 5px 8px 4px 8px; text-align: center; }
+
+  /* Rounded corners */
+  .tipsy-inner { border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+  
+  /* Uncomment for shadow */
+  /*.tipsy-inner { box-shadow: 0 0 5px #000000; -webkit-box-shadow: 0 0 5px #000000; -moz-box-shadow: 0 0 5px #000000; }*/
+  
+  .tipsy-arrow { position: absolute; width: 0; height: 0; line-height: 0; border: 5px dashed #000; }
+  
+  /* Rules to colour arrows */
+  .tipsy-arrow-n { border-bottom-color: #000; }
+  .tipsy-arrow-s { border-top-color: #000; }
+  .tipsy-arrow-e { border-left-color: #000; }
+  .tipsy-arrow-w { border-right-color: #000; }
+  
+	.tipsy-n .tipsy-arrow { top: 0px; left: 50%; margin-left: -5px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-nw .tipsy-arrow { top: 0; left: 10px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent;}
+    .tipsy-ne .tipsy-arrow { top: 0; right: 10px; border-bottom-style: solid; border-top: none;  border-left-color: transparent; border-right-color: transparent;}
+  .tipsy-s .tipsy-arrow { bottom: 0; left: 50%; margin-left: -5px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-sw .tipsy-arrow { bottom: 0; left: 10px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-se .tipsy-arrow { bottom: 0; right: 10px; border-top-style: solid; border-bottom: none; border-left-color: transparent; border-right-color: transparent; }
+  .tipsy-e .tipsy-arrow { right: 0; top: 50%; margin-top: -5px; border-left-style: solid; border-right: none; border-top-color: transparent; border-bottom-color: transparent; }
+  .tipsy-w .tipsy-arrow { left: 0; top: 50%; margin-top: -5px; border-right-style: solid; border-left: none; border-top-color: transparent; border-bottom-color: transparent; }
