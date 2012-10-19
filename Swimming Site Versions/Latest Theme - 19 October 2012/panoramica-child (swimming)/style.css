@@ -1,0 +1,68 @@
+/* 
+Theme Name: Swimming Club
+Theme URI:http://www.cpothemes.com
+Description:A completely fluid and clean theme designed to fit almost any screen, making all of its content adaptable to the browser window. It comes with some useful templates, supports widget areas both in the sidebar and the footer, and includes a flexible customization page.
+Author:CPOThemes (Original Author of Panoramica Parent Theme) & Team 23 Productions
+Author URI:http://www.cpothemes.com
+Template: Panoramica
+
+
+
+*/
+
+@import url("../panoramica/style.css");
+
+/* HEADINGS */
+h1, h2, h3, h4, h5, h6 { font-family:'Imprima', Verdada, Arial, Helvetica, sans-serif; color:#333; line-height:1.2em; margin:0px 0px 10px; text-shadow:none; }
+
+
+
+.wrapper_header {
+	background-repeat:repeat;
+	background: url("images/gradient_squares.png") scroll 0 0;
+    border-bottom: 1px solid #999999;
+    padding: 0 5%;
+    width: 90%;
+}
+
+
+#header .title { display:block; font-family:'Krona One', Verdada, Arial, Helvetica, sans-serif; color:#09C; font-size:42px; line-height:1em; margin-bottom:5px; text-shadow:0px 1px 0px #fff; }
+
+.nav_main li a { display:block; float:left; padding:10px 15px; margin:0px 0px; color:#333; font-size:16px; font-family:'Gudea', Verdana, Geneva, sans-serif; border-radius:3px; -moz-transition:0.2s all; -webkit-transition:0.2s all; transition:0.2s all; }
+.nav_main li:hover > a { background:#5ba5d3; text-decoration:none; color:#fff}
+.nav_main .current-menu-parent > a, 
+.nav_main .current-page-ancestor > a, 
+.nav_main .current_page_item > a, 
+.nav_main .current-menu-item > a { background:#09C; color:#fff; }
+.nav_main .current-menu-item:hover > a { background:#91C8FF; color:#fff; }
+
+.taglinesetting {
+	font-family:'Imprima', Verdada, Arial, Helvetica, sans-serif; color:#09C; line-height:1.2em; margin:0px 0px 10px; text-shadow:none; font-size:28px; font-weight:bold;
+}
+
+#sidebar {
+  float: right;
+  margin: 0 0 0 5%;
+  padding: 0;
+  width: 20%;
+}
+
+.wrapper_footer {
+    background: url("images/gradient_squares.png") scroll 0 0;
+    border-top: 1px solid #222222;
+    overflow: hidden;
+    padding: 0 5%;
+    width: 90%;
+}
+
+#footer {
+  clear: both;
+  color: #333333;
+  margin: 30px 0;
+}
+
+.customfootertxt {
+	float:right;
+	font-style:italic;
+	color: #333333;
+}

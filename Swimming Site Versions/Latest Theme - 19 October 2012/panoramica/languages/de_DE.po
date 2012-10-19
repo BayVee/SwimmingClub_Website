@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panoramica v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-11 11:38+0100\n"
+"PO-Revision-Date: 2012-05-11 11:38+0100\n"
+"Last-Translator: CPO\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ cpotheme
+#: 404.php:5
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - Seite nicht gefunden"
+
+# @ cpotheme
+#: 404.php:8
+msgid "The requested page could not be found. It could have been deleted or changed location. Try searching for it using the search function."
+msgstr "Die angefragte Seite konnte nicht gefunden werden, da sie eventuell gelöscht oder die Adresse gewechselt wurde. Suchen Sie danach mithilfe der Suchfunktion."
+
+# @ cpotheme
+#: archive.php:8
+msgid "Subscribe to this RSS Feed"
+msgstr "RSS-Feed abonnieren"
+
+# @ cpotheme
+#: archive.php:15
+#: archive.php:19
+#: archive.php:23
+#: archive.php:27
+#: archive.php:31
+msgid "Archive"
+msgstr "Archiv"
+
+# @ cpotheme
+#: archive.php:28
+msgid "Author archive"
+msgstr "Autorenarchiv"
+
+# @ cpotheme
+#: archive.php:32
+msgid "Tag"
+msgstr "Schlagwort"
+
+# @ cpotheme
+#: archive.php:43
+#: comments.php:9
+#: index.php:55
+#: search.php:20
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+# @ cpotheme
+#: archive.php:43
+#: comments.php:9
+#: index.php:55
+#: search.php:20
+#, php-format
+msgid "%1$s Comments"
+msgstr "%1$s Kommentare"
+
+# @ cpotheme
+#: archive.php:54
+#: comments.php:25
+msgid "Newer"
+msgstr "Neuer"
+
+# @ cpotheme
+#: archive.php:55
+#: comments.php:24
+msgid "Older"
+msgstr "Älter"
+
+# @ cpotheme
+#: archive.php:60
+msgid "No posts found."
+msgstr "Keine Artikel gefunden."
+
+# @ cpotheme
+#: comments.php:3
+msgid "This page is protected. Please insert the password to be able to read its contents."
+msgstr "Die Seite ist geschützt. Bitte geben Sie das Passwort ein, um den Inhalt sehen zu können."
+
+# @ cpotheme
+#: comments.php:16
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+# @ cpotheme
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+# @ cpotheme
+#: footer.php:15
+msgid "Theme designed by <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+msgstr "Theme designed von <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+
+# @ cpotheme
+#: page.php:11
+msgid "Pages"
+msgstr "Seiten"
+
+# @ cpotheme
+#: search.php:6
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+# @ cpotheme
+#: search.php:43
+msgid "No results have been found."
+msgstr "Keine Ergebnisse gefunden."
+
+# @ cpotheme
+#: sidebar-home.php:9
+#: sidebar.php:9
+msgid "Archives"
+msgstr "Archive"
+
+# @ cpotheme
+#: sidebar-home.php:16
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+# @ cpotheme
+#: template-blog.php:15
+#: template-contact.php:80
+#: template-full.php:15
+#: template-portfolio.php:19
+#: template-sitemap.php:15
+#: template-submenu_children.php:20
+#: template-submenu_siblings.php:22
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ cpotheme
+#: template-contact.php:19
+#: template-contact.php:27
+#: template-contact.php:38
+msgid "This field cannot be left empty."
+msgstr "Dieses Feld darf nicht leer bleiben."
+
+# @ cpotheme
+#: template-contact.php:30
+msgid "The email address has an incorrect format.."
+msgstr "Die E-Mail-Adresse hat ein falsches Format."
+
+# @ cpotheme
+#: template-contact.php:51
+msgid "New contact form response by"
+msgstr "Neue Kontaktformulareinsendung von"
+
+# @ cpotheme
+#: template-contact.php:53
+#: template-contact.php:93
+msgid "Name"
+msgstr "Name"
+
+# @ cpotheme
+#: template-contact.php:54
+#: template-contact.php:101
+msgid "Email"
+msgstr "E-Mail"
+
+# @ cpotheme
+#: template-contact.php:55
+#: template-contact.php:109
+msgid "Message"
+msgstr "Nachricht"
+
+# @ cpotheme
+#: template-contact.php:57
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+# @ cpotheme
+#: template-contact.php:58
+msgid "Time"
+msgstr "Zeit"
+
+# @ cpotheme
+#: template-contact.php:63
+msgid "Your message has been sent"
+msgstr "Ihre Nachricht wurde gesendet"
+
+# @ cpotheme
+#: template-contact.php:84
+msgid "The email address for the contact form is not configured."
+msgstr "Die E-Mail-Adresse für das Kontaktformular wurde noch nicht konfiguriert."
+
+# @ cpotheme
+#: template-contact.php:89
+msgid "Your message has been sent."
+msgstr "Ihre Nachricht wurde gesendet."
+
+# @ cpotheme
+#: template-contact.php:117
+msgid "In order to complete this form, leave this field empty"
+msgstr "Um das Formlar auszufüllen, lassen sie dieses Feld leer."
+
+# @ cpotheme
+#: template-contact.php:123
+msgid "Send"
+msgstr "Senden"
+
+# @ cpotheme
+#: core_lite/custom.php:7
+msgid "Theme Settings"
+msgstr "Theme-Einstellungen"
+
+# @ cpotheme
+#: core_lite/custom.php:22
+msgid "Changes have been saved."
+msgstr "Änderungen wurden gespeichert."
+
+# @ cpotheme
+#: core_lite/custom.php:27
+msgid "Changes could not be saved."
+msgstr "Änderungen konnten nicht gespeichert werden."
+
+# @ cpotheme
+#: core_lite/custom.php:58
+msgid "Support"
+msgstr "Support"
+
+# @ cpotheme
+#: core_lite/custom.php:91
+#: core_lite/custom.php:97
+#: core_lite/custom.php:135
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+# @ cpotheme
+#: core_lite/forms.php:37
+msgid "Yes"
+msgstr "Ja"
+
+# @ cpotheme
+#: core_lite/forms.php:40
+msgid "No"
+msgstr "Nein"
+
+# @ cpotheme
+#: core_lite/general.php:14
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+# @ cpotheme
+#: includes/setup.php:12
+msgid "Homepage"
+msgstr "Startseite"
+
+# @ cpotheme
+#: includes/setup.php:14
+msgid "Sidebar shown only in the homepage."
+msgstr "Sidebar, die nur auf der Startseite angezeigt wird."
+
+# @ cpotheme
+#: includes/setup.php:20
+msgid "Primary Widgets"
+msgstr "Primäre Widgets"
+
+# @ cpotheme
+#: includes/setup.php:22
+msgid "Default sidebar shown in all standard pages."
+msgstr "Standard-Sidebar, die auf allen Standard-Seiten angezeigt wird."
+
+# @ cpotheme
+#: includes/setup.php:28
+msgid "Blog"
+msgstr "Blog"
+
+# @ cpotheme
+#: includes/setup.php:30
+msgid "Sidebar shown in the blog page template."
+msgstr "Sidebar, die auf allen Seiten mit dem Blog-Template angezeigt wird."
+
+# @ cpotheme
+#: includes/setup.php:36
+msgid "Footer Sidebar 1"
+msgstr "Fußzeilen-Sidebar 1"
+
+# @ cpotheme
+#: includes/setup.php:38
+#: includes/setup.php:46
+#: includes/setup.php:54
+#: includes/setup.php:62
+msgid "Shown in the footer area."
+msgstr "Wird im Fußzeilenbereich angezeigt."
+
+# @ cpotheme
+#: includes/setup.php:44
+msgid "Footer Sidebar 2"
+msgstr "Fußzeilen-Sidebar 2"
+
+# @ cpotheme
+#: includes/setup.php:52
+msgid "Footer Sidebar 3"
+msgstr "Fußzeilen-Sidebar 3"
+
+# @ cpotheme
+#: includes/setup.php:60
+msgid "Footer Sidebar 4"
+msgstr "Fußzeilen-Sidebar 4"
+
+# @ cpotheme
+#: includes/setup.php:73
+msgid "Top Menu"
+msgstr "Top-Menü"
+
+# @ cpotheme
+#: includes/setup.php:74
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+# @ cpotheme
+#: includes/setup.php:75
+msgid "Footer Menu"
+msgstr "Fußzeilenmenü"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:8
+msgid "Features"
+msgstr "Merkmale"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:9
+msgid "Feature"
+msgstr "Merkmal"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:10
+msgid "Add Feature"
+msgstr "Merkmal hinzufügen"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:11
+msgid "Add New Feature"
+msgstr "Neues Merkmal hinzufügen"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:12
+msgid "Edit Feature"
+msgstr "Merkmal bearbeiten"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:13
+msgid "New Feature"
+msgstr "Neues Merkmal"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:14
+msgid "View Features"
+msgstr "Zeige Merkmale"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:15
+msgid "Search Features"
+msgstr "Durchsuche Merkmale"
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:16
+msgid "No features found."
+msgstr "Keine Merkmale gefunden."
+
+# @ cpotheme
+#: includes/cposts/cpost_features.php:17
+msgid "No features found in the trash."
+msgstr "Keine Merkmale im Papierkorb gefunden."
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:8
+#: includes/cposts/cpost_portfolio.php:9
+msgid "Portfolio"
+msgstr "Portfolio"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:10
+msgid "Add Portfolio Item"
+msgstr "Portfolio-Artikel hinzufügen"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:11
+msgid "Add New Portfolio Item"
+msgstr "Neuen Portfolio-Artikel hinzufügen"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:12
+msgid "Edit Portfolio Item"
+msgstr "Portfolio-Artikel bearbeiten"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:13
+msgid "New Portfolio Item"
+msgstr "Neuer Portfolio-Artikel"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:14
+msgid "View Portfolio"
+msgstr "Zeige Portfolio"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:15
+msgid "Search Portfolio"
+msgstr "Durchsuche Portfolio"
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:16
+msgid "No portfolio items found."
+msgstr "Keine Portfolio-Artikel gefunden."
+
+# @ cpotheme
+#: includes/cposts/cpost_portfolio.php:17
+msgid "No portfolio items found in the trash."
+msgstr "Keine Portfolio-Artikel im Papierkorb gefunden."
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:9
+msgid "Slides"
+msgstr "Slides"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:10
+msgid "Slide"
+msgstr "Slide"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:11
+#: includes/cposts/cpost_slider.php:14
+msgid "New Slide"
+msgstr "Neuer Slide"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:12
+msgid "Add New Slide"
+msgstr "Neuen Slide hinzufügen"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:13
+msgid "Edit Slide"
+msgstr "Slide bearbeiten"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:15
+msgid "View Slide"
+msgstr "Zeige Slide"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:16
+msgid "Search Slides"
+msgstr "Durchsuche Slides"
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:17
+msgid "No slides were found."
+msgstr "Keine Slides gefunden."
+
+# @ cpotheme
+#: includes/cposts/cpost_slider.php:18
+msgid "No slides were found in the trash."
+msgstr "Keine Slides im Papierkorb gefunden."
+
+# @ cpotheme
+#: includes/layout/layout_comments.php:14
+msgid "Your comment is awaiting approval."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+# @ cpotheme
+#: includes/layout/layout_comments.php:20
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s auf %2$s"
+
+# @ cpotheme
+#: includes/layout/layout_comments.php:27
+#: includes/layout/layout_comments.php:38
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ cpotheme
+#: includes/layout/layout_comments.php:38
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:4
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Veröffentlicht am %1$s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:7
+#, php-format
+msgid " by %1$s"
+msgstr " von %1$s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:10
+#: includes/layout/layout_post.php:20
+#, php-format
+msgid " in %1$s"
+msgstr " in %1$s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:17
+#, php-format
+msgid "By %1$s"
+msgstr "Von  %1$s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:27
+#, php-format
+msgid "Tagged as %1$s"
+msgstr "Getaggt mit %1$s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:42
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Artikel von %s"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:113
+msgid "First Page"
+msgstr "Erste Seite"
+
+# @ cpotheme
+#: includes/layout/layout_post.php:133
+msgid "Last Page"
+msgstr "Letzte Seite"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:11
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:12
+msgid "Global configuration options applied to the entire site."
+msgstr "Globale Konfigurationen gelten für die ganze Seite."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:17
+msgid "Custom Logo"
+msgstr "Benutzerdefiniertes Logo"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:18
+msgid "Insert a custom image to be used as logo."
+msgstr "Fügt ein benutzerdefiniertes Bild als Logo ein."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:23
+msgid "Enable Text Title?"
+msgstr "Aktiviere Texttitel?"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:24
+msgid "Activate this to display the site title as text."
+msgstr "Aktivieren Sie diese Funktion, um den Seitentitel als Text anzeigen zu lassen."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:29
+msgid "Analytics Tracking Code"
+msgstr "Analytics Tracking Code"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:30
+msgid "Insert here your analytics tool's tracking code."
+msgstr "Fügen Sie hier den Code Ihres Statistikprogramms ein."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:36
+msgid "Styling"
+msgstr "Styling"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:37
+msgid "Set up the look & feel of the site."
+msgstr "Stellen Sie das Aussehen der Seite ein."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:42
+msgid "Number of Posts in Homepage"
+msgstr "Anzahl der Artikel auf der Startseite."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:43
+msgid "Specify the number of recent posts you want to appear in the homepage."
+msgstr "Stellen Sie die Anzahl der aktuellen Artikel ein, die auf der Startseite erscheinen."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:49
+msgid "Always Display Slider?"
+msgstr "Den Slider immer anzeigen?"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:50
+msgid "Determines whether the slider will be shown in all posts and pages, or just the homepage."
+msgstr "Soll der Slider auf allen Seiten und Artikeln oder nur auf der Startseite angezeigt werden?"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:55
+msgid "Homepage Tagline"
+msgstr "Startseiten-Tagzeile"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:56
+msgid "Displays a tagline located under the slider in the homepage. You can use HTML to stylize your tagline."
+msgstr "Zeigt eine Tagzeile unter dem Slider auf der Startseite. Sie können HTML zum Anpassen der Tagzeile benutzen."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:61
+msgid "Homepage Portfolio Description"
+msgstr "Startseiten-Portfolio-Beschreibung"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:62
+msgid "Displays a small description in the portfolio section of the homepage. You can use HTML to stylize the description."
+msgstr "Zeigt eine kleine Beschreibung im Portfolio-Abschnitt auf der Startseite an. Sie können HTML zum Anpassen der Beschreibung verwenden."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:67
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:68
+msgid "Determines the color of the background."
+msgstr "Stellt die Farbe des Hintergrundes ein."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:73
+msgid "Background Texture"
+msgstr "Hintergrund-Texture"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:74
+msgid "Specifies how the sidebar is arranged throughout the whole site."
+msgstr "Stellt ein, wie die Sidebar auf der ganzen Seite angeordnet wird."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:81
+msgid "Enable Credit Link In Footer?"
+msgstr "Credit Link in der Fußzeile aktivieren?"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:82
+msgid "Enables a small, non-obtrusive credit link in the footer. If you decide to activate it, thanks a lot for supporting CPOThemes!"
+msgstr "Aktiviert einen kleinen, unauffälligen Credit Link zur Fußzeile hinzu. Falls Sie sich entscheiden, Ihn anzeigen zu lassen, danken wir dafür, dass Sie CPOThemes unterstützen!"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:88
+msgid "Contact Information"
+msgstr "Kontaktinformationen"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:89
+msgid "Setup for contact information used in forms."
+msgstr "Einrichtung der Kontaktinformationen, die in Formularen benutzt werden."
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:94
+msgid "Contact Form Email"
+msgstr "Kontaktformular-E-Mail"
+
+# @ cpotheme
+#: includes/metadata/data_settings.php:95
+msgid "Entries in the contact form template will be sent to this email address."
+msgstr "Einsendungen über das Kontaktformular-Template werden an diese E-Mail-Adresse gesendet."
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:9
+msgctxt "post type general name"
+msgid "Categories"
+msgstr "Kategorien"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:10
+msgctxt "post type singular name"
+msgid "Category"
+msgstr "Kategorie"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:11
+msgctxt "slide"
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:12
+msgid "Add Category"
+msgstr "Kategorie hinzufügen"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:13
+msgid "Edit Category"
+msgstr "Kategorie bearbeiten"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:14
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:15
+msgid "View Category"
+msgstr "Zeige Kategorie"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:16
+msgid "Search Categories"
+msgstr "Durchsuche Kategorien"
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:17
+msgid "No categories were found."
+msgstr "Keine Kategorien gefunden."
+
+# @ cpotheme
+#: includes/taxonomies/tax_portfolio_cats.php:18
+msgid "No categories were found in the trash."
+msgstr "Keine Kategorien im Papierkorb gefunden."
+
